@@ -1,0 +1,24 @@
+{
+  "stage": "1013R_R59_VISIBLE_2K_SCREENSHOT_SMOKE",
+  "status": "PASS",
+  "screenshot": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_visible_2k_screenshot_smoke_1013R_R59.png",
+  "image_size": {
+    "width": 2048,
+    "height": 1152
+  },
+  "checks": {
+    "is_2k_width": true,
+    "field_status_strip_visible": true,
+    "edit_card_visible": true,
+    "canonical_identity_visible": true,
+    "material_requests_prompt_visible": true,
+    "preview_only_unsaved_visible": true,
+    "same_r21_page_shell": true
+  },
+  "boundary": {
+    "new_static_page_created": false,
+    "provider_called": false,
+    "model_called": false,
+    "formal_apply_performed": false
+  }
+}

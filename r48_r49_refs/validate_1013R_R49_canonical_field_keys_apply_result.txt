@@ -1,0 +1,14 @@
+﻿1013R_R49 validation: PASS
+{
+  "errors": [],
+  "summary": {
+    "page_edit_item_count": 12,
+    "canonical_field_count": 12,
+    "alias_count": 6,
+    "material_requests_present": true,
+    "material_prompt_marker_present": true,
+    "fallback_patch_count": 6,
+    "missing_canonical_raw_patch_rejected": true,
+    "normalized_patch_count_after_probe": 3
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "stage": "1013R_R50_R60_FIELD_AWARE_EDITING_EXPERIENCE_SPRINT",
+  "status": "PASS",
+  "artifacts": {
+    "R50": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_aware_edit_card_visible_smoke_1013R_R50.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_aware_edit_card_visible_smoke_1013R_R50.md",
+      "status": "PASS"
+    },
+    "R51": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_patch_to_existing_edit_card_smoke_1013R_R51.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_patch_to_existing_edit_card_smoke_1013R_R51.md",
+      "status": "PASS"
+    },
+    "R52": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_material_requests_teacher_gate_smoke_1013R_R52.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_material_requests_teacher_gate_smoke_1013R_R52.md",
+      "status": "PASS"
+    },
+    "R53": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_frame_consistency_result_1013R_R53.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_frame_consistency_report_1013R_R53.md",
+      "status": "PASS"
+    },
+    "R54": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_edit_card_interaction_polish_1013R_R54.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_edit_card_interaction_polish_1013R_R54.md",
+      "status": "PASS"
+    },
+    "R55": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_adopt_preview_undo_state_1013R_R55.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_adopt_preview_undo_state_1013R_R55.md",
+      "status": "PASS"
+    },
+    "R56": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_status_strip_1013R_R56.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_field_status_strip_1013R_R56.md",
+      "status": "PASS"
+    },
+    "R57": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_xiaojiao_input_to_field_route_fixture_1013R_R57.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_xiaojiao_input_to_field_route_fixture_1013R_R57.md",
+      "status": "PASS"
+    },
+    "R58": {
+      "json": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_teacher_action_buttons_unified_1013R_R58.json",
+      "md": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R50_R60_field_aware_editing_experience\\artifacts\\prep_room_teacher_action_buttons_unified_1013R_R58.md",
+      "status": "PASS"
+    }
+  },
+  "summary": {
+    "stage": "1013R_R50_R60_FIELD_AWARE_EDITING_EXPERIENCE_SPRINT",
+    "r21_html": "outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R21_page_copy_binds_unified_package\\prep_room_page_copy_binds_unified_package_1013R_R21.html",
+    "page_edit_item_count": 12,
+    "canonical_field_count": 12,
+    "alias_count": 6,
+    "alias_fields_have_explicit_alias_of": true,
+    "material_requests_present": true,
+    "orphan_ui": 0,
+    "standalone_blue_card_allowed": false,
+    "provider_model_runtime_connected": false,
+    "formal_apply_allowed": false,
+    "markers": {
+      "sprint_mounted": true,
+      "field_strip": true,
+      "field_open": true,
+      "edit_card": true,
+      "material_prompt": true,
+      "preview_state": true,
+      "intent_route": true,
+      "teacher_buttons": true,
+      "blue_card_forbidden": true
+    }
+  }
+}

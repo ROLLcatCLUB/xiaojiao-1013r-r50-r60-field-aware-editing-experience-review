@@ -1,0 +1,30 @@
+{
+  "stage": "1013R_R50_R60_FIELD_AWARE_EDITING_EXPERIENCE_REVIEW",
+  "status": "REVIEW_READY_WITH_NOTES",
+  "same_r21_page": true,
+  "new_static_page_created": false,
+  "canonical_field_count": 12,
+  "page_edit_item_count": 12,
+  "alias_count": 6,
+  "material_requests_present": true,
+  "missing_canonical_raw_patch_rejected": true,
+  "orphan_ui": 0,
+  "existing_edit_card_reused": true,
+  "line_contracts_visible": true,
+  "line_contracts_keep_canonical_field_key": true,
+  "candidate_without_canonical_field_key_rejected": true,
+  "modal_body_scroll_fixed": true,
+  "debug_field_strip_is_final_product": false,
+  "provider_called": false,
+  "model_called": false,
+  "database_written": false,
+  "feishu_written": false,
+  "memory_written": false,
+  "formal_apply_performed": false,
+  "notes": [
+    "The bottom-left field strip is a temporary debug/review entry point, not the desired final teacher-facing product shape.",
+    "This stage verifies field-aware edit-card smoke and line-level contracts, not live generation runtime.",
+    "The next stage should route generated candidates into lesson-plan fields and line contracts."
+  ],
+  "recommended_next": "R61_FIELD_GENERATION_TO_LESSON_PLAN_FIELD_CONTRACT"
+}
